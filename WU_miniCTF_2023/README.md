@@ -4,7 +4,7 @@
 
 | Title 	| Category  	| Flag 	|
 |-------	|-----------	|------	|
-| [Comment](###-Comment)  	| Forensics 	| `miniCTF{ch3ck_c0mm3nt}`   	|
+| [Comment](###Comment)  	| Forensics 	| `miniCTF{ch3ck_c0mm3nt}`   	|
 | [Notepad](###Notepad)  	| Forensics 	| `miniCTF{f1nd_m3_1n_th3_ch405}`   	|
 | [Redacted](###Redacted)  	| Forensics 	| `miniCTF{r3d4ct3d_m3ss4g3_15nt_h4rd_r1ght}`   	|
 | [What's_wrong_with_the_picture](###What's_wrong_with_the_picture)  	| Forensics 	| `miniCTF{nemu_nemu_nyanko}`   	|
