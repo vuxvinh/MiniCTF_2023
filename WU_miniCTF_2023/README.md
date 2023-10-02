@@ -4,20 +4,20 @@
 
 | Title 	| Category  	| Flag 	|
 |-------	|-----------	|------	|
-| [Comment](###Comment)  	| Forensics 	| `miniCTF{ch3ck_c0mm3nt}`   	|
-| [Notepad](###Notepad)  	| Forensics 	| `miniCTF{f1nd_m3_1n_th3_ch405}`   	|
-| [Redacted](###Redacted)  	| Forensics 	| `miniCTF{r3d4ct3d_m3ss4g3_15nt_h4rd_r1ght}`   	|
-| [What's_wrong_with_the_picture](###What's_wrong_with_the_picture)  	| Forensics 	| `miniCTF{nemu_nemu_nyanko}`   	|
-| [8bitsound](###8bitsound)  	| Forensics 	| `miniCTF{sp3ctrogr4m_c0lorfu1}`   	|
-| [Tired_Cat](###Tired_Cat)  	| Forensics 	| `miniCTF{1m_s0_m0th3r_f^ck1n9_7ir3d_4ll_7h3_7im3}`   	|
-| [Sharp_eyes](###Sharp_eyes)  	| Forensics 	| `miniCTF{1_w3nt_crAaazy_0v3r_U}`   	|
-| [Ping](###Ping)  	| Misc      	| `miniCTF{64.227.14.145}`   	|
-| [NASA](###NASA)  	| Misc      	| `miniCTF{today@nasa.gov}`   	|
-| [Caesar_Cipher](###Caesar_Cipher)  	| Warm-up   	| `miniCTF{N0w_U_Kn0w_HoW_t0_3ncrYpt_Ur_M3s54g3}`   	|
-| [Binary](###Binary)  	| Warm-up   	| `miniCTF{congratulations}`   	|
-| [Base64](###Base64)  	| Warm-up   	| `miniCTF{b4s364_3ncrypt3d_by_ckjd0k}`   	|
-| [INT](###INT)  	| Warm-up   	| `miniCTF{5urpr1se_y0u_4re_4maz1n9!!!}`   	|
-| [FileFolder](###FileFolder)  	| Warm-up   	| `miniCTF{f0ld3r_w4s_hjdd3n_6y_ckjd0k}`   	|
+| [Comment](#Comment)  	| Forensics 	| `miniCTF{ch3ck_c0mm3nt}`   	|
+| [Notepad](#Notepad)  	| Forensics 	| `miniCTF{f1nd_m3_1n_th3_ch405}`   	|
+| [Redacted](#Redacted)  	| Forensics 	| `miniCTF{r3d4ct3d_m3ss4g3_15nt_h4rd_r1ght}`   	|
+| [What's_wrong_with_the_picture](#What's_wrong_with_the_picture)  	| Forensics 	| `miniCTF{nemu_nemu_nyanko}`   	|
+| [8bitsound](#8bitsound)  	| Forensics 	| `miniCTF{sp3ctrogr4m_c0lorfu1}`   	|
+| [Tired_Cat](#Tired_Cat)  	| Forensics 	| `miniCTF{1m_s0_m0th3r_f^ck1n9_7ir3d_4ll_7h3_7im3}`   	|
+| [Sharp_eyes](#Sharp_eyes)  	| Forensics 	| `miniCTF{1_w3nt_crAaazy_0v3r_U}`   	|
+| [Ping](#Ping)  	| Misc      	| `miniCTF{64.227.14.145}`   	|
+| [NASA](#NASA)  	| Misc      	| `miniCTF{today@nasa.gov}`   	|
+| [Caesar_Cipher](#Caesar_Cipher)  	| Warm-up   	| `miniCTF{N0w_U_Kn0w_HoW_t0_3ncrYpt_Ur_M3s54g3}`   	|
+| [Binary](#Binary)  	| Warm-up   	| `miniCTF{congratulations}`   	|
+| [Base64](#Base64)  	| Warm-up   	| `miniCTF{b4s364_3ncrypt3d_by_ckjd0k}`   	|
+| [INT](#INT)  	| Warm-up   	| `miniCTF{5urpr1se_y0u_4re_4maz1n9!!!}`   	|
+| [FileFolder](#FileFolder)  	| Warm-up   	| `miniCTF{f0ld3r_w4s_hjdd3n_6y_ckjd0k}`   	|
 
 ## Forensics
 
